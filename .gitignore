@@ -32,8 +32,8 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
-# Ignore conf in ./out/
-out/conf/
+# Ignore conf
+[Co]onf/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
@@ -363,3 +363,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/conf
+!/out/ConfigBuilder/**
