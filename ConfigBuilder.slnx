@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConfigBuilderGUI/ConfigBuilderGUI.csproj" />
+  <Project Path="ConfigBuilderLibrary/ConfigBuilderLibrary.csproj" Id="cf218b7c-5bdc-4660-8a7b-6c144c88f6eb" />
+</Solution>
