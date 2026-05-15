@@ -29,9 +29,11 @@ x86/
 bld/
 [Bb]in/
 [Oo]bj/
-[Oo]ut/[Cc]onf/
 [Ll]og/
 [Ll]ogs/
+
+# Ignore conf in ./out/
+out/conf/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
